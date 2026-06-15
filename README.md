@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cafe-que-nunca-nos-tomamos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Café que nunca nos tomamos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cafe-que-nunca-nos-tomamos/) |
+| **Get License** | [Secure Licensing Rights for Café que nunca nos tomamos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cafe-que-nunca-nos-tomamos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ese café que nunca nos tomamos
+> Aún me quema en las madrugadas cuando te llamo
+> Baby, tú y yo en la disco siempre nos miramos
+> Pero esta noche, mami, juro que nos escapamos
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
