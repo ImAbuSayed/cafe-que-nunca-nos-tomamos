@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cafe-que-nunca-nos-tomamos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Café que nunca nos tomamos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cafe-que-nunca-nos-tomamos/) |
+| **Get License** | [Secure Licensing Rights for Café que nunca nos tomamos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cafe-que-nunca-nos-tomamos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3323)
 
 ---
 
