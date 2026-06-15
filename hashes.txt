@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Café que nunca nos tomamos
+
+This log tracks the cryptographic history and versioning for the song **Café que nunca nos tomamos** (cafe-que-nunca-nos-tomamos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T11:40:47.996444 | `v1` | `d356a6a300799671d6212107754e46732330492d2b6ee3bca5490767d57fd3d6` | `c6f5c351b6c2acec389e52e91221b312940df7b652f2b7623b0f1c9510e45954` | `2026-06-15_cafe-que-nunca-nos-tomamos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
